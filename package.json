@@ -1,0 +1,12 @@
+{
+  "name": "testing-by-node-js",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "nodejs calculator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
